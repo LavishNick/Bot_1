@@ -1,1 +1,4 @@
-git+https://github.com/LavishNick/Bot_1
+discord
+discord.py
+discord.py[voice]
+pyowm
