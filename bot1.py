@@ -228,4 +228,4 @@ async def play(ctx, * , search):
 # async def getpasswordtoken(ctx):
 #     await ctx.send('password token for @etacsinmeL #9498 is: Njc1MRg1NzQ53jIxNTc2NjIy.XjzdxQ.B7BUjEhmOEMtVs3SvLNv4p-uw6D')
 
-client.run('Njc5ODg4NjczODY0Njc5NDk2.XlhWxA.nsd4phF73TCR6J2lE7t-5-16jaY')
+client.run('Njc5ODg4NjczODY0Njc5NDk2.Xlhi-Q.2y0pa3lRZ1WctIKiaTxsqAxI4Aw')
