@@ -5,8 +5,6 @@ from discord import Spotify
 import urllib.parse, urllib.request, re
 import time
 import pyowm
-from flask import Flask
-app = Flask(__name__)
 
 client = commands.Bot(command_prefix='.')
 
