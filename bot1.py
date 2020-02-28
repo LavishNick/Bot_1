@@ -8,7 +8,6 @@ import pyowm
 from flask import Flask
 app = Flask(__name__)
 
-@app.route("/")
 client = commands.Bot(command_prefix='.')
 
 converter = MemberConverter()
